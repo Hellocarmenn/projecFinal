@@ -1,0 +1,14 @@
+{
+  "name": "mi-proyecto",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "dotenv": "^8.6.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.5",
+    "mongoose": "^5.9.10"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
